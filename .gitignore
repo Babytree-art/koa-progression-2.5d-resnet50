@@ -1,0 +1,34 @@
+# Data
+data/
+train/
+val/
+test/
+*.nii
+*.nii.gz
+*label*.txt
+
+# Weights
+weights/
+*.pth
+*.pt
+*.bin
+
+# Outputs
+results*/
+*.npy
+*.pkl
+*.csv
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
