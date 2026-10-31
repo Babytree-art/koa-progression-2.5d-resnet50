@@ -1,0 +1,11 @@
+torch>=1.6
+torchvision
+timm
+numpy
+pandas
+nibabel
+matplotlib
+seaborn
+scikit-learn
+albumentations
+tqdm
